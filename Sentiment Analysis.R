@@ -13,7 +13,7 @@ library('wordcloud')
 library('syuzhet')
 library('ggplot2')
 
-data <- read.csv('/home/pushp-raj/R/NLP Script/kindle_review.csv')
+data <- read.csv('/........csv')    # File path
 
 'Data Preprocessing'
 
