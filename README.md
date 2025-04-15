@@ -79,7 +79,7 @@ Each review is categorized into **8 emotions** using NRC lexicon-based sentiment
 
 ---
 
-## Technologies & Libraries Used
+## Languages & Libraries Used
 - **R programming language**
 - **Libraries:**
   - `tm` – Text Mining  
